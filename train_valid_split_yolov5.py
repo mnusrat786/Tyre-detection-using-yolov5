@@ -1,4 +1,4 @@
-#
+# lib
 import os
 import shutil
 maindir = os.listdir('folder2/')

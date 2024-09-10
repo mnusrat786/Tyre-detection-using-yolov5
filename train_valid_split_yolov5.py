@@ -1,5 +1,6 @@
 # libraries
 import os
+#os means operating system
 import shutil
 # I made
 maindir = os.listdir('folder2/')

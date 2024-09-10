@@ -1,6 +1,7 @@
 # libraries
 import os
 import shutil
+#
 maindir = os.listdir('folder2/')
 try:
     os.mkdir('coco/')

@@ -4,6 +4,7 @@ import os
 import shutil
 # I made
 maindir = os.listdir('folder2/')
+#
 try:
     os.mkdir('coco/')
 except:

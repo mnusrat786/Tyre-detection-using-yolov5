@@ -7,6 +7,7 @@ maindir = os.listdir('folder2/')
 # try
 try:
     os.mkdir('coco/')
+#    
 except:
     pass
 try:

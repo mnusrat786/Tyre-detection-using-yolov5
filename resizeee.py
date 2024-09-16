@@ -3,7 +3,7 @@ import cv2
 
 arr = os.listdir("folder11/")
 #for loop
-#
+#a
 for aa in arr:
     aaa = aa.split('.')[0]
     img = cv2.imread(f"folder11/{aa}")

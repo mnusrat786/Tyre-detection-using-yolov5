@@ -1,4 +1,4 @@
-## Tyre Detection Using Yolo
+## Tyre Detection Using Yol
 ## Project Description
 ## Dataset Collection
 ## Implementation
